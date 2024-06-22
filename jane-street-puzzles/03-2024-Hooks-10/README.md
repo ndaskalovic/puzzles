@@ -2,6 +2,6 @@
 
 ## Hooks 10
 
-Not the most efficient solution and takes about 5 mins on a modest CPU but it was my first stab at one of these.
+Not the most efficient solution and takes about 5 mins on a modest CPU.
 
 ![solution grid](output.png)
