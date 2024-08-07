@@ -2,7 +2,7 @@
 
 Generating all Pythagorean Triples up to a length of 100 digits is not reasonable.
 
-Instead, one can observe that the best way to approximate $\pi$ is with continoud fractions and can apply this approach here to approximate one of the angles inside a Pythagorean triangle from which a Pythagorean triple can be made [1]. More interesting material on the topic can be found [here](https://r-knott.surrey.ac.uk/Pythag/pythag.html#angApproxCalc).
+Instead, one can observe that the best way to approximate $\pi$ is with continued fractions and can apply this approach here to approximate one of the angles inside a Pythagorean triangle from which a Pythagorean triple can be made [1]. More interesting material on the topic can be found [here](https://r-knott.surrey.ac.uk/Pythag/pythag.html#angApproxCalc).
  
 The need for high levels of numerical accuracy can be satisfied with the [gmpy](https://gmpy2.readthedocs.io/en/latest/) library.
 
